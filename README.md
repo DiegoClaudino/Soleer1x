@@ -1,4 +1,4 @@
-# SPACE INVADERS 🛸
+## SPACE INVADERS 🛸
 
 [![Language](https://img.shields.io/badge/python-%3E=%202.7-blue?style=flat-square&logo=appveyor)](https://www.python.org)
 [![Modules](https://img.shields.io/badge/modules-pygame-green?style=flat-square&logo=appveyor)](https://www.pygame.org/docs/)
@@ -87,7 +87,7 @@ $ pip install --user --upgrade pip
 $ pip install --user pygame
 ```
 
-### Executando o jogo
+## Executando o jogo
 
 Qualquer um pode baixar o código do jogo e executar clicando no botão verde **Clone or download** e pode baixar o código clicando [**aqui**](https://github.com/HigorSnt/SpaceInvaders/archive/master.zip) ou digitando no terminal o comando:
 
